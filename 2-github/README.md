@@ -9,18 +9,17 @@ Let’s start by opening a new tab in your web browser and navigating to the mai
 
 Time for your first challenge!
 
-| # | Challenge  | Solution   | Duration   | What you will learn | More information |
-|-| ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- | - |
-1 | Clone this repo to your local machine with Visual Studio | Verify | 3 min |  How to clone a repo in Visual Studio | [Clone a repo in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-clone-repository?view=vs-2022) |
+| Challenge  | Solution   | Duration   | What you will learn | More information |
+| ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- | - |
+| Clone this repo to your local machine with Visual Studio | Verify | 3 min |  How to clone a repo in Visual Studio | [Clone a repo in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-clone-repository?view=vs-2022) |
+
 
 ## Running the Solution
 Once Visual Studio finishes cloning, open the Intro to Version Control with GitHub solution by going to Solution Explorer and clicking on Files.sln. After the solution loads, we will need to set the Files.Package project as a startup project by right clicking it as shown below. 
-![Clone from GitHub](images/image017.png)
-![Clone from GitHub](images/image019.png)
-![Clone from GitHub](images/image021.png)
+![Solution Explorer](images/image017.png) ![Set as Startup Project](images/image019.png) ![Start without Debugging](images/image021.png)
 
 Now you are ready to run this code by entering Ctrl + F5 in your keyboard or by selecting Start Without Debugging under the Debug menu. Now Visual Studio will start building, deploying, and running your project. 
-![Clone from GitHub](images/image023.png)
+![View the built project](images/image023.png)
 
 ## How’d it Go?
 Congratulations! You have successfully cloned and run this open-source project. 

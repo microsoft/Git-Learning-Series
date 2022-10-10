@@ -18,8 +18,7 @@ To start your journey let’s look at a brief overview of what Git and Version Con
 ## What is Git and Version Control? 
 Version control makes it possible to track changes you make to your code over time so you can both track your progress and revert to specific versions. Visual Studio makes it easy to work with Git, which is the most widely used modern version control system. Git is a distributed source control system meaning that to work on your code, your computer needs to have a full copy (clone) of your code’s repository. This gives you the ability to make changes in situations when you don’t have internet access. You will also have multiple backups of your code, a local Git repository on every computer you work on.
 
-![GitHub, Git, and Visual Studio working together](images/image002.png)
-![Distributed Version Control](images/image004.jpg)
+![GitHub, Git, and Visual Studio working together](images/image002.png) ![Distributed Version Control](images/image004.jpg)
    
 ## What is a repository? 
 It is the database that Git uses to track changes made to your code over time. You can update this Git database, your Git repository, by (committing) your changes which would store a picture of your code changes to your local Git repository. Then when you are ready, you can (push) your local Git changes to your remote repository so that you and/or others can access these changes from other locations.
