@@ -17,7 +17,7 @@ The Git repository window contains 3 main sections:
 
 | Challenge  | Solution   | Duration   | What you will learn |
 | ------------------------------- | ------------------------------- | ----------- | ----------- |
-| Find the hidden message in Commit ID ##### | [Verify](images/answer3.png) | 3 min |  How to filter in the Git Repository window | 
+| Find the hidden message in Commit ID 93e6b07b952a44f5461a20882fa625003e6b0ba0 | [Verify](images/answer3.png) | 3 min |  How to filter in the Git Repository window | 
 
 ## What’s next?
 Now that you know how to navigate the repository, you can revert to previous commits and learn advanced Git topics like cherry-picking! Check the links below to learn more:
