@@ -11,7 +11,7 @@ Time for your first challenge!
 
 | Challenge  | Solution   | Duration   | What you will learn | More information |
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- | - |
-| Clone this repo to your local machine with Visual Studio | Verify | 3 min |  How to clone a repo in Visual Studio | [Clone a repo in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-clone-repository?view=vs-2022) |
+| Clone this repo to your local machine with Visual Studio | [Verify](images/answer2.png) | 3 min |  How to clone a repo in Visual Studio | [Clone a repo in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-clone-repository?view=vs-2022) |
 
 
 ## Running the Solution
