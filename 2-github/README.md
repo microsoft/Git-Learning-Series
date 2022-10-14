@@ -19,7 +19,7 @@ Time for your first challenge!
 
 
 ## How’d it Go?
-Congratulations! You have successfully cloned and run this open-source project. 
+Congratulations! You have successfully cloned this open-source project. 
 Please take this quick survey to give use your thoughts on this lesson & challenge!
 
 ## Bonus

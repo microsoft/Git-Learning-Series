@@ -2,12 +2,12 @@
 In this lesson, we will learn how to look at all the different versions, or snapshots of the project over time in Visual Studio. These snapshots are called commits.
 
 ## Using the Git Repository Window
-As mentioned previously, cloning a Git repository creates a local repository copy on your machine. Let’s start by using Visual Studio to explore the local repository we created last time when cloning this project. To do that go to “View > Git Repository” which opens the following Git Repository window. 
- 
-![Annotated Git Repository Window](images/Git-Repository-Window.png)
+As mentioned previously, cloning a Git repository creates a local repository copy on your machine. Let’s start by using Visual Studio to explore the local repository we created last time when cloning this project. To do that go to “View > Git Repository” which opens the Git Repository window. It should look like the following:  
+![Annotated Git Repository Window](images/git-repository-window.png)
 
 The Git repository window contains 3 main sections:
-1- Branches: Git empowers users to multi-task and experiment with their code through branches. If you are working on multiple features at the same time or if you would like to explore ideas without effecting your working code, branching can be very helpful. We haven’t created any branches in this repository so the only local branch that shows is “main” which is created automatically by Git when you first clone. If you expand the remotes/origin folder, you will see a list of the remote branches that the Files team is working on. 
+
+1- Branches: Git empowers users to multi-task and experiment with their code through branches. If you are working on multiple features at the same time or if you would like to explore ideas without effecting your working code, branching can be very helpful. We haven’t created any branches in this repository so the only local branch that shows is “main” which is created automatically by Git when you first clone. If you expand the remotes/origin folder, you will see a list of the remote branches. 
 
 2- Git Graph: The Git graph section visualizes the state of your branch. It has three different sections: incoming, outgoing and local history. The incoming section shows incoming commits that your team has been contributing, the outgoing section shows your local commits that you still haven’t pushed, and the local history shows the rest of commits tracked by your local repository.
 
