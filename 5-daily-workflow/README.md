@@ -26,7 +26,7 @@ Learn more [here](https://learn.microsoft.com/en-us/visualstudio/version-control
 
 | Challenge  | Solution   | Duration   | What you will learn | More information |
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- |
-| Make a change in your new repo from last lesson, and stage, commit, and push it!	| [Verify](images/answer4.png) | 3 min |  How to add commits to your remote repo | [Make a Git commit](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022) |
+| Make a change in your new repo from last lesson, and stage, commit, and push it!	| [Verify](images/answer5.png) | 3 min |  How to add commits to your remote repo | [Make a Git commit](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022) |
 
 
 ## What’s next?

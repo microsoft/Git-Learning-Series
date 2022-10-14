@@ -1,33 +1,35 @@
-# Project
+## Intro GitHub in Visual Studio 
+Welcome to the Intro to GitHub in Visual Studio GitHub repository! We’re excited to take you along with us as we learn all about the source control.
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Here, you'll find a 5-part series of lessons and challenges to get you started using GitHub in Visual Studio! 
 
-As the maintainer of this project, please make a few updates:
+> **Note**
+> The content in this repo is part of a free, 5-part e-mail series that will teach you something new every week. The e-mails include introductions to the content in these lessons. If you came here directly and haven't signed up for the e-mails, you can do that [here](link)  
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Video Introduction
+[Todo]
 
-## Contributing
+## How-to 
+To use this curriculum on your own, go into the numbered folders to access the lessons and projects. This series is designed to take 5 weeks, about 1 week per lesson, but feel free to complete it at your own pace.  
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+## Lessons 
+|     |                       Lesson Name                       | Learning Objectives                                                                                                                 |                                                         Linked Lesson                                                          | 
+| :-: | :------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: | 
+| 01  |                     Welcome                              | Introduction to Git and GitHub                           | [Welcome to the Intro to GitHub in Visual Studio Series](/1-welcome) | 
+| 02  |                     GitHub                               | Access code in the cloud                                 | [Accessing Code in the Cloud with GitHub](/2-github)                             | 
+| 03  |                     Revision History                     | View revision history                                    | [Viewing Your Revision History in Visual Studio](/3-revision-history)                       | 
+| 04  |                     Sync to Cloud                        | Sync your code to the cloud                              | [Syncing your Code to the Cloud](/4-sync-to-cloud)                                        | 
+| 05  |                     Daily Workflow                       | Learn how to integrate GitHub into your daily workflow   | [Daily Workflow with GitHub in Visual Studio and Next Steps](/5-daily-workflow)                               |  
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Help Resources 
+There's a few places you can go for help and more information on the topics covered in this repository.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+### Documentation
+1. [Git Experience in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2022#start-with-git--github-in-visual-studio)
 
-## Trademarks
+## How to leave feedback 
+To leave us feedback on this learning series, please fill out our [survey](link) or file an issue in this repository.
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Learn More & Connect with us 
+
+[Todo]

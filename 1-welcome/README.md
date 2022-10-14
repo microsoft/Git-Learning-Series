@@ -1,4 +1,4 @@
-# Welcome to the Intro to Version Control with GitHub Series
+# Welcome to the Intro to GitHub in Visual Studio Series
 This is the first email in the Introduction to Version Control with GitHub email series! We’re excited to get you started backing up your code to the cloud, syncing across devices, and viewing the revision history of your codebase using GitHub integrated with Visual Studio. In this first email, we’ll give you the email schedule rundown, give you a brief introduction to Git and Version Control, and show you all the tools you’ll need for this series. 
 
 ## Prerequisite tools 

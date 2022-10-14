@@ -16,7 +16,7 @@ Once Visual Studio confirms that your new GitHub repository is created, you can 
 
 | Challenge  | Solution   | Duration   | What you will learn | More information |
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- |
-| Add your own project code to GitHub | [Verify](images/answer5.png) | 3 min |  How to create a new Git Repository on GitHub with Visual Studio | [Create a Git repo](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-repository?view=vs-2022) |
+| Add your own project code to GitHub | [Verify](images/answer4.png) | 3 min |  How to create a new Git Repository on GitHub with Visual Studio | [Create a Git repo](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-repository?view=vs-2022) |
 
 
 ## What’s next?
