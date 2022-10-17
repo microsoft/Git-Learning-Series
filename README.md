@@ -28,7 +28,7 @@ There's a few places you can go for help and more information on the topics cove
 1. [Git Experience in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2022#start-with-git--github-in-visual-studio)
 
 ## How to leave feedback 
-To leave us feedback on this learning series, please fill out our [survey](link) or file an issue in this repository.
+To leave us feedback on this learning series, please fill out our [survey](https://www.research.net/r/BNXKD5W) or file an issue in this repository.
 
 ## Learn More & Connect with us 
 
