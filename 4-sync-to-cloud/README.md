@@ -11,7 +11,7 @@ Since you already have a GitHub account, all you need to do is sign in. If you d
 
 <div>
 <img src="images/create-a-git-repository-window.png" alt="Create a Git repository window" width="40%"/>
-<img src="images/sign-in-to-github.png" alt="Sign in to GitHub" width="40%"/>
+<img src="images/sign-in-to-github.png" alt="Sign in to GitHub" width="20%"/>
 </div>
 
 Once you sign in, Visual Studio prepopulates your information. You can choose to provide an optional description for your new repository and then click Create and Push. Visual Studio is going to initialize a local Git repository, create a new GitHub repository, and then push your code to it. Note that your repository on GitHub is going to be private by default. Meaning that you are the only one who has access to it. Feel free to uncheck the Private repository checkbox if you would like to create an open-source repository. 
@@ -26,7 +26,7 @@ Once Visual Studio confirms that your new GitHub repository is created, you can 
 
 | Challenge  | Solution   | Duration   | What you will learn | More information |
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- |  -------------------------------------- |
-| Add your own project code to GitHub | Verify | 3 min |  How to create a new Git Repository on GitHub with Visual Studio | [Create a Git repo](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-repository?view=vs-2022) |
+| Add your own project code to GitHub | Verify in the browser | 3 min |  How to create a new Git Repository on GitHub with Visual Studio | [Create a Git repo](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-repository?view=vs-2022) |
 
 
 ## What’s next?
