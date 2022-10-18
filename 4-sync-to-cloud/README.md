@@ -10,8 +10,8 @@ Get started by opening the Create Git Repository experience which can be accesse
 Since you already have a GitHub account, all you need to do is sign in. If you didn’t create a GitHub account in the first lesson, you can create a new account by clicking on the create an account option. 
 
 <div>
-<img src="images/create-a-git-repository-window.png" alt="Create a Git repository window" width="50%"/>
-<img src="images/sign-in-to-github.png" alt="Sign in to GitHub" width="50%"/>
+<img src="images/create-a-git-repository-window.png" alt="Create a Git repository window" width="40%"/>
+<img src="images/sign-in-to-github.png" alt="Sign in to GitHub" width="40%"/>
 </div>
 
 Once you sign in, Visual Studio prepopulates your information. You can choose to provide an optional description for your new repository and then click Create and Push. Visual Studio is going to initialize a local Git repository, create a new GitHub repository, and then push your code to it. Note that your repository on GitHub is going to be private by default. Meaning that you are the only one who has access to it. Feel free to uncheck the Private repository checkbox if you would like to create an open-source repository. 
@@ -20,7 +20,7 @@ Once you sign in, Visual Studio prepopulates your information. You can choose to
 
 Once Visual Studio confirms that your new GitHub repository is created, you can check it out on GitHub through the following open in browser functionality in the Git Changes window. 
 
-<img src="images/open-in-browser.png" alt="Open in Browser" width="80%" align="middle"/>
+<img src="images/open-in-browser.png" alt="Open in Browser" width="30%" align="middle"/>
 
 ## 🚨 Challenge - Add your own project to GitHub
 
