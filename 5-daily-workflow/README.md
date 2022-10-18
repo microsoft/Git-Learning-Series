@@ -11,6 +11,8 @@ We talked about how to view your Git repository in Visual Studio (Committed File
 
 Staging files before committing them is an optional step that you might want to utilize to prepare for a commit. That way you can only commit the files that are ready to be committed (Staged).
 
+<img src="images/git-changes-modified.png" alt="Git Changes - modified" width="30%"/>
+
 ![Git Changes - modified](images/git-changes-modified.png) ![Git Changes - staged](images/git-changes-staged.png) ![Git Changes - commit message](images/git-changes-commit-message.png) ![Git Changes - committed](images/git-changes-modified.png)
     
 In Visual Studio all of your modified files can be found in the Git Changes window next to Solution Explorer (view > Git Changes). You will find your modified files under the changes section. You can commit your changes right away by providing a commit message and clicking the Commit All button. Alternativly, you can chose to stage the changes that you would like to commit first using the + button. Staging can be usefull if you need to commit a subset of your changes. Once you click the commit button, you get a confirmation message and your outgoing commits status changes to 1. To view the commit you have just made, click the outgoing/incoming link which will take you the the Git Repository window. 
@@ -25,7 +27,7 @@ Learn more [here](https://learn.microsoft.com/en-us/visualstudio/version-control
 ## 🚨 Challenge - Make your first commit in your repo
 
 | Challenge  | Solution   | Duration   | What you will learn | More information |
-| ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- |
+| ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- | --------------- |
 | Make a change in your new repo from last lesson, and stage, commit, and push it!	| Verify if you see your change in the GitHub  browser| 3 min |  How to add commits to your remote repo | [Make a Git commit](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022) |
 
 
