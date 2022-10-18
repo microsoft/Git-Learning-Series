@@ -13,13 +13,13 @@ Here, you'll find a 5-part series of lessons and challenges to get you started u
 To use this curriculum on your own, go into the numbered folders to access the lessons and projects. This series is designed to take 5 weeks, about 1 week per lesson, but feel free to complete it at your own pace.  
 
 ## Lessons 
-|     |                       Lesson Name                       | Learning Objectives                                                                                                                 |                                                         Linked Lesson                                                          | 
-| :-: | :------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: | 
-| 01  |                     Welcome                              | Introduction to Git and GitHub                           | [Welcome to the Intro to GitHub in Visual Studio Series](/1-welcome) | 
-| 02  |                     GitHub                               | Access code in the cloud                                 | [Accessing Code in the Cloud with GitHub](/2-github)                             | 
-| 03  |                     Revision History                     | View revision history                                    | [Viewing Your Revision History in Visual Studio](/3-revision-history)                       | 
-| 04  |                     Sync to Cloud                        | Sync your code to the cloud                              | [Syncing your Code to the Cloud](/4-sync-to-cloud)                                        | 
-| 05  |                     Daily Workflow                       | Learn how to integrate GitHub into your daily workflow   | [Daily Workflow with GitHub in Visual Studio and Next Steps](/5-daily-workflow)                               |  
+|     |                       Lesson                             | Learning Objectives                                                                                                                 |   
+| :-: | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | 
+| 01  |                     [Welcome to the Intro to GitHub in Visual Studio Series](/1-welcome)                              | Introduction to Git and GitHub                           |
+| 02  |                     [Accessing Code in the Cloud with GitHub](/2-github)                                              | Access code in the cloud by cloning to your local machine                                | 
+| 03  |                     [Viewing Your Revision History in Visual Studio](/3-revision-history)                             | View revision history in Visual Studio with the Git repository window                                   | 
+| 04  |                     [Syncing your Code to the Cloud](/4-sync-to-cloud)                                                | Sync your code to the cloud by pushing your commits                             |  
+| 05  |                     [Daily Workflow with GitHub in Visual Studio and Next Steps](/5-daily-workflow)                   | Learn how to integrate GitHub into your daily workflow   |   
 
 ## Help Resources 
 There's a few places you can go for help and more information on the topics covered in this repository.
