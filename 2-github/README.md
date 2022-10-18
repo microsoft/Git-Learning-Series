@@ -7,9 +7,11 @@ Let’s start by opening a new tab in your web browser and navigating to the mai
 
 Open Visual Studio and select the Clone a repository option under the Get started section. Paste the repository URL to the Repository location text box and click the clone button. 
 
+<div>
 <img src="images/get-started-clone-a-repository.png" alt="Get Started - Clone a repository" width="45%"/>
 <img src="images/clone-a-repository.png" alt="Clone a repository" width="45%"/>
-
+</div>
+ 
 ## 🚨 Challenge 1
 
 Time for your first challenge!
