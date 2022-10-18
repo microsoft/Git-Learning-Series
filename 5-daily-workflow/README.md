@@ -12,10 +12,10 @@ We talked about how to view your Git repository in Visual Studio (Committed File
 Staging files before committing them is an optional step that you might want to utilize to prepare for a commit. That way you can only commit the files that are ready to be committed (Staged).
 
 <div>
-<img src="images/git-changes-modified.png" alt="Git Changes - modified" width="25%"/>
-<img src="images/git-changes-staged.png" alt="Git Changes - staged" width="25%"/>
-<img src="images/git-changes-commit-message.png" alt="Git Changes - commit message" width="25%"/>
-<img src="images/git-changes-committed.png" alt="Git Changes - committed" width="25%"/>
+<img src="images/git-changes-modified.png" alt="Git Changes - modified" width="20%"/>
+<img src="images/git-changes-staged.png" alt="Git Changes - staged" width="20%"/>
+<img src="images/git-changes-commit-message.png" alt="Git Changes - commit message" width="20%"/>
+<img src="images/git-changes-committed.png" alt="Git Changes - committed" width="20%"/>
 </div>    
 
 In Visual Studio all of your modified files can be found in the Git Changes window next to Solution Explorer (view > Git Changes). You will find your modified files under the changes section. You can commit your changes right away by providing a commit message and clicking the Commit All button. Alternativly, you can chose to stage the changes that you would like to commit first using the + button. Staging can be usefull if you need to commit a subset of your changes. Once you click the commit button, you get a confirmation message and your outgoing commits status changes to 1. To view the commit you have just made, click the outgoing/incoming link which will take you the the Git Repository window. 
