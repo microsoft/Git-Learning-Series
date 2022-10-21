@@ -33,12 +33,11 @@ Learn more [here](https://learn.microsoft.com/en-us/visualstudio/version-control
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- | --------------- |
 | Make a change in your new repo from last lesson, and stage, commit, and push it!	| Verify if you see your change in the GitHub  browser| 3 min |  How to add commits to your remote repo | [Make a Git commit](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022) |
 
+## How’d it go?
+You’ve reached the end of this learning series, please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give us your thoughts on this series and what you’d like to see from us next!
 
 ## What’s next?
 Now that you know how to make commits, you can learn more advanced Git topics staging lines of code,  amending commits, and handling merge conflicts! Check the links below to learn more:
 *	[Stage lines of code in Visual Studio | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-line-staging?view=vs-2022)
 *	[Change the last commit | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-manage-repository?view=vs-2022#change-the-last-commit-amend)
 *	[Resolve merge conflicts in Visual Studio | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-resolve-conflicts?view=vs-2022)
-
-## How’d it go?
-You’ve reached the end of this learning series, please take this quick [survey](https://www.research.net/r/BNXKD5W) to give us your thoughts on this series and what you’d like to see from us next!

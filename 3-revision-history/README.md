@@ -19,6 +19,10 @@ The Git repository window contains 3 main sections:
 | ------------------------------- | ------------------------------- | ----------- | ----------- |
 | Find the hidden message in Commit ID 93e6b07b952a44f5461a20882fa625003e6b0ba0 | [Verify](images/answer3.png) | 3 min |  How to filter in the Git Repository window | 
 
+## How’d it Go?
+Congratulations! You have successfully navigated the repository. 
+Please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give use your thoughts on this lesson & challenge!
+
 ## What’s next?
 Now that you know how to navigate the repository, you can revert to previous commits and learn advanced Git topics like cherry-picking! Check the links below to learn more:
 *	[Revert changes | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-manage-repository?view=vs-2022#revert-changes)

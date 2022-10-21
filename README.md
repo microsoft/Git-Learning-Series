@@ -4,7 +4,7 @@ Welcome to the Intro to GitHub in Visual Studio GitHub repository! We’re excited
 Here, you'll find a 5-part series of lessons and challenges to get you started using GitHub in Visual Studio! 
 
 > **Note**
-> The content in this repo is part of a free, 5-part e-mail series that will teach you something new every week. The e-mails include introductions to the content in these lessons. If you came here directly and haven't signed up for the e-mails, you can do that [here](link)  
+> The content in this repo is part of a free, 5-part e-mail series that will teach you something new every week. The e-mails include introductions to the content in these lessons. If you came here directly and haven't signed up for the e-mails, you can do that [here](https://aka.ms/vsgitlearn-1-signup-repo)  
 
 ## Video Introduction
 [Todo]
@@ -25,10 +25,10 @@ To use this curriculum on your own, go into the numbered folders to access the l
 There's a few places you can go for help and more information on the topics covered in this repository.
 
 ### Documentation
-1. [Git Experience in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2022#start-with-git--github-in-visual-studio)
+* [Git Experience in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2022#start-with-git--github-in-visual-studio)
 
 ## How to leave feedback 
-To leave us feedback on this learning series, please fill out our [survey](https://www.research.net/r/BNXKD5W) or file an issue in this repository.
+To leave us feedback on this learning series, please fill out our [survey](https://aka.ms/vsgitlearn-1-survey) or file an issue in this repository.
 
 ## Learn More & Connect with us 
 

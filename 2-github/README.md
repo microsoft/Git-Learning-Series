@@ -23,9 +23,9 @@ Time for your first challenge!
 
 ## How’d it Go?
 Congratulations! You have successfully cloned this open-source project. 
-Please take this quick survey to give use your thoughts on this lesson & challenge!
+Please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give use your thoughts on this lesson & challenge!
 
-## Bonus
+## What's Next?
 Check out more open-source projects on GitHub:
 *	[Trending C# repositories on GitHub today](https://github.com/trending/c%23)
 *	[halls7588/Data_Structures_in_15_Languages](https://github.com/halls7588/Data_Structures_in_15_Languages)

@@ -28,6 +28,9 @@ Once Visual Studio confirms that your new GitHub repository is created, you can 
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- |  -------------------------------------- |
 | Add your own project code to GitHub | Verify in the browser | 3 min |  How to create a new Git Repository on GitHub with Visual Studio | [Create a Git repo](https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-repository?view=vs-2022) |
 
+## How’d it Go?
+Congratulations! You have successfully added your project to GitHub. 
+Please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give use your thoughts on this lesson & challenge!
 
 ## What’s next?
 Now that you know how to add your own code to GitHub, you can learn advanced more advanced Git topics like branching! Check the link below to learn more:
