@@ -1,13 +1,10 @@
 ## Intro GitHub in Visual Studio 
-Welcome to the Intro to GitHub in Visual Studio GitHub repository! We’re excited to take you along with us as we learn all about the source control.
+Welcome to the Intro to GitHub in Visual Studio GitHub repository! Weâ€™re excited to take you along with us as we learn all about the source control.
 
 Here, you'll find a 5-part series of lessons and challenges to get you started using GitHub in Visual Studio! 
 
 > **Note**
 > The content in this repo is part of a free, 5-part e-mail series that will teach you something new every week. The e-mails include introductions to the content in these lessons. If you came here directly and haven't signed up for the e-mails, you can do that [here](https://aka.ms/vsgitlearn-1-signup-repo)  
-
-## Video Introduction
-[Todo]
 
 ## How-to 
 To use this curriculum on your own, go into the numbered folders to access the lessons and projects. This series is designed to take 5 weeks, about 1 week per lesson, but feel free to complete it at your own pace.  
