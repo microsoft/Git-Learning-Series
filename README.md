@@ -1,4 +1,4 @@
-## Intro GitHub in Visual Studio 
+## Getting Started with GitHub in Visual Studio 
 Welcome to the Intro to GitHub in Visual Studio GitHub repository! We’re excited to take you along with us as we learn all about the source control.
 
 Here, you'll find a 5-part series of lessons and challenges to get you started using GitHub in Visual Studio! 
