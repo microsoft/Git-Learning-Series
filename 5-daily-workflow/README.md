@@ -25,19 +25,19 @@ Pushing is the last step once you’ve committed your staged changes. This uploa
 
 Before you start a coding session, always make sure you have the most recent version of your code from your remote repository by using Fetch, Pull, or Sync. Fetching checks if there are any remote commits that you should incorporate into your local changes, pulling adds those commits to your local repo, and syncing does a Pull operation, then a Push operation.
 
-Learn more [here](https://learn.microsoft.com/en-us/visualstudio/version-control/git-fetch-pull-sync?view=vs-2022).
+Learn more [here](https://aka.ms/vsgitlearn-1-git-fetch).
 
 ## 🚨 Challenge - Make your first commit in your repo
 
 | Challenge  | Solution   | Duration   | What you will learn | More information |
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- | --------------- |
-| Make a change in your new repo from last lesson, and stage, commit, and push it!	| Verify if you see your change in the GitHub  browser| 3 min |  How to add commits to your remote repo | [Make a Git commit](https://learn.microsoft.com/en-us/visualstudio/version-control/git-make-commit?view=vs-2022) |
+| Make a change in your new repo from last lesson, and stage, commit, and push it!	| Verify if you see your change in the GitHub  browser| 3 min |  How to add commits to your remote repo | [Make a Git commit](https://aka.ms/vsgitlearn-1-make-commit) |
 
 ## How’d it go?
 You’ve reached the end of this learning series, please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give us your thoughts on this series and what you’d like to see from us next!
 
 ## What’s next?
 Now that you know how to make commits, you can learn more advanced Git topics staging lines of code,  amending commits, and handling merge conflicts! Check the links below to learn more:
-*	[Stage lines of code in Visual Studio | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-line-staging?view=vs-2022)
-*	[Change the last commit | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-manage-repository?view=vs-2022#change-the-last-commit-amend)
-*	[Resolve merge conflicts in Visual Studio | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-resolve-conflicts?view=vs-2022)
+*	[Stage lines of code in Visual Studio | Microsoft Learn](https://aka.ms/vsgitlearn-1-line-stage)
+*	[Change the last commit | Microsoft Learn](https://aka.ms/vsgitlearn-1-amend)
+*	[Resolve merge conflicts in Visual Studio | Microsoft Learn](https://aka.ms/vsgitlearn-1-resolve-conflicts)
