@@ -25,5 +25,5 @@ Please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give use 
 
 ## What’s next?
 Now that you know how to navigate the repository, you can revert to previous commits and learn advanced Git topics like cherry-picking! Check the links below to learn more:
-*	[Revert changes | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-manage-repository?view=vs-2022#revert-changes)
-*	[Copy commits (cherry-pick) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/version-control/git-manage-repository?view=vs-2022#copy-commits-cherry-pick)
+*	[Revert changes | Microsoft Learn](https://aka.ms/vsgitlearn-1-revert-changes)
+*	[Copy commits (cherry-pick) | Microsoft Learn](https://aka.ms/vsgitlearn-1-cherry-pick)
