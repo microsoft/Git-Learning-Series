@@ -27,7 +27,7 @@ Please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give use 
 
 ## What's Next?
 Check out more open-source projects on GitHub:
-*	[Trending C# repositories on GitHub today](https://github.com/trending/c%23?wt.mc_id=visualstudio_gitlearningseriesrepo_webpage_cnl)
-*	[halls7588/Data_Structures_in_15_Languages](https://github.com/halls7588/Data_Structures_in_15_Languages?wt.mc_id=visualstudio_gitlearningseriesrepo_webpage_cnl)
-*	[beginner-friendly · GitHub Topics](https://github.com/topics/beginner-friendly?l=c%23?wt.mc_id=visualstudio_gitlearningseriesrepo_webpage_cnl)
-*	[beginner-project · GitHub Topics](https://github.com/topics/beginner-project?l=c%23?wt.mc_id=visualstudio_gitlearningseriesrepo_webpage_cnl)
+*	[Trending C# repositories on GitHub today](https://github.com/trending/c%23)
+*	[halls7588/Data_Structures_in_15_Languages](https://github.com/halls7588/Data_Structures_in_15_Languages)
+*	[beginner-friendly · GitHub Topics](https://github.com/topics/beginner-friendly?l=c%23)
+*	[beginner-project · GitHub Topics](https://github.com/topics/beginner-project?l=c%23)
