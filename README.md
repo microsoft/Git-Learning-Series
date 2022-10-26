@@ -28,6 +28,6 @@ There's a few places you can go for help and more information on the topics cove
 To leave us feedback on this learning series, please fill out our [survey](https://aka.ms/vsgitlearn-1-survey) or file an issue in this repository.
 
 ## Learn More & Connect with us 
-* [Twitter](https://twitter.com/VisualStudio?wt.mc_id=visualstudio_gitlearningseriesrepo_webpage_cnl)
-* [Youtube](https://www.youtube.com/visualstudio?wt.mc_id=visualstudio_gitlearningseriesrepo_webpage_cnl)
-* [LinkedIn](https://www.linkedin.com/showcase/microsoft-visual-studio/?wt.mc_id=visualstudio_gitlearningseriesrepo_webpage_cnl)
+* [Twitter](https://twitter.com/VisualStudio)
+* [Youtube](https://www.youtube.com/visualstudio)
+* [LinkedIn](https://www.linkedin.com/showcase/microsoft-visual-studio/)
