@@ -3,7 +3,7 @@ This is the first lesson in the Introduction to Version Control with GitHub emai
 
 ## Prerequisite tools 
 *	[Visual Studio](https://aka.ms/vsgitlearn-1-vsdownload) or [Visual Studio for Mac](https://aka.ms/vsgitlearn-1-vsmacdownload) – check out our [more detailed instructions](how-to-install-vs.md) for extra help
-*	[GitHub account](https://docs.microsoft.com/en-us/visualstudio/version-control/git-create-github-account?view=vs-2022)
+*	[GitHub account](https://aka.ms/vsgitlearn-1-create-gh-account)
 
 ## What to expect 
 During the series you will learn the basics of using Git with Visual Studio. Here is a rundown of what the next few weeks will look like. 
