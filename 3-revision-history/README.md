@@ -20,7 +20,7 @@ The Git repository window contains 3 main sections:
 | Find the hidden message in Commit ID 93e6b07b952a44f5461a20882fa625003e6b0ba0 | [Verify](images/answer3.png) | 3 min |  How to filter in the Git Repository window | 
 
 ## Video Walkthrough
-[<img src="/images/Title Card - Viewing Your Revision History in Visual Studio.png" alt="drawing" width="700"/>](https://youtu.be/8WxylrNswI8 "Viewing Your Revision History in Visual Studio")
+[<img src="images/Title Card - Viewing Your Revision History in Visual Studio.png" alt="drawing" width="700"/>](https://youtu.be/8WxylrNswI8 "Viewing Your Revision History in Visual Studio")
 > 🎥 Click the image above for a video walkthrough of this lesson!
 
 
