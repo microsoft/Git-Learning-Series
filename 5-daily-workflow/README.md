@@ -33,6 +33,10 @@ Learn more [here](https://aka.ms/vsgitlearn-1-git-fetch).
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- | --------------- |
 | Make a change in your new repo from last lesson, and stage, commit, and push it!	| Verify if you see your change in the GitHub  browser| 3 min |  How to add commits to your remote repo | [Make a Git commit](https://aka.ms/vsgitlearn-1-make-commit) |
 
+## Video Walkthrough
+[<img src="/images/Title Card - Daily Workflow with GitHub in Visual Studio.png" alt="drawing" width="700"/>](https://youtu.be/VlgDIqrAkGA "Daily Workflow with GitHub in Visual Studio")
+> 🎥 Click the image above for a video walkthrough of this lesson!
+
 ## How’d it go?
 You’ve reached the end of this learning series, please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give us your thoughts on this series and what you’d like to see from us next!
 

@@ -28,6 +28,10 @@ Once Visual Studio confirms that your new GitHub repository is created, you can 
 | ------------------------------- | ------------------------------- | ----------- |  -------------------------------------- |  -------------------------------------- |
 | Add your own project code to GitHub | Verify in the browser | 3 min |  How to create a new Git Repository on GitHub with Visual Studio | [Create a Git repo](https://aka.ms/vsgitlearn-1-create-repo) |
 
+## Video Walkthrough
+[<img src="/images/Title Card - Syncing your Code to the Cloud.png" alt="drawing" width="700"/>](https://youtu.be/VlgDIqrAkGA "Syncing your Code to the Cloud")
+> 🎥 Click the image above for a video walkthrough of this lesson!
+
 ## How’d it Go?
 Congratulations! You have successfully added your project to GitHub. 
 Please take this quick [survey](https://aka.ms/vsgitlearn-1-survey) to give use your thoughts on this lesson & challenge!

@@ -20,6 +20,9 @@ Time for your first challenge!
 | ------------------------------- | ----------- |  -------------------------------------- | - |
 | Clone this repo to your local machine with Visual Studio | 3 min |  How to clone a repo in Visual Studio | [Clone a repo in Visual Studio](https://aka.ms/vsgitlearn-1-clone-repo) |
 
+## Video Walkthrough
+[<img src="/images/Title Card - Accessing Code in the Cloud with GitHub.png" alt="drawing" width="700"/>](https://youtu.be/iYTm73scl80 "Accessing Code in the Cloud with GitHub")
+> 🎥 Click the image above for a video walkthrough of this lesson!
 
 ## How’d it Go?
 Congratulations! You have successfully cloned this open-source project. 
